@@ -1,5 +1,5 @@
 /**
- * @author:王华文
+ * @author:
  * @description:重写Extjs中常用的一些组件，给他们赋予一些默认值，类似与javascript里的prototype，如果用户需要的某些属性和默认属性发生冲突时可以再次重写该属性
  */
 	Ext.useShims = true;
